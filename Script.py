@@ -1,8 +1,6 @@
 class script(object):
     START_TXT = """<b>Hᴇʏ {} 
    
-Just Send Movie Name
-    
 Hᴇʏ {mention} ɪᴍ ɴꜱᴍᴏᴠɪᴇꜱ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴀɴ Aᴡᴇsᴏᴍᴇ Aᴜᴛᴏ Fɪʟᴛᴇʀ + Fɪʟᴇ Sʜᴀʀᴇ Bᴏᴛ.
 
 Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</b>"""
