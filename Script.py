@@ -3,7 +3,7 @@ class script(object):
    
 Just Send Movie Name
     
-ನೀವು ಹುಡುಕುತ್ತಿರುವ ಮೂವಿ ಸಿಗದೆ ಇದ್ದರೆ @Nsmovies7  👈 ಸಂದೇಶ ಕಳುಹಿಸಿ</b>"""
+This bot belongs to @Nsmovies7 , Use this to search movies</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {} Fʀɪᴇɴᴅ Hᴇʀᴇ Yᴏᴜʀ Bᴜᴛᴛᴏɴs 👇</b>"""
 
