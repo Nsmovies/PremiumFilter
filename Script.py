@@ -1,9 +1,9 @@
 class script(object):
     START_TXT = """<b>Hᴇʏ {} 
    
-Just Send Movie Name
-    
-This bot belongs to @Nsmovies7 , Use this to search movies</b>"""
+Just Send Movie Name to search 
+
+If you can't find the movie you're looking for,  just request in @Nsmovies77_Discussion</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {} Fʀɪᴇɴᴅ Hᴇʀᴇ Yᴏᴜʀ Bᴜᴛᴛᴏɴs 👇</b>"""
 
